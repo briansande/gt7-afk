@@ -1,17 +1,20 @@
-Python script to AFK farm credits in GT7.
+### About
+Python script to AFK farm credits in GT7
 
-Makes about 470k per hour.
+Makes about 470k per hour 
 
 
-## Requirements
+### Requirements
 * Install vgamepad by running `pip install vgamepad`
-* Must use the Tomahawk [TBD exact model] (917 PP)
-* Must assign the right analog stick to the accelarate/brake action
-* Must assign the square button to the boost/turbo action
-* Click into the World Circuit mode, once loaded, start the script.
+* Use the Tomahawk [TBD exact model] (917 PP)
+* Assign the right analog stick to the accelarate/brake action
+* Assign the square button to the boost/turbo action
+* Enter into the World Circuit Mode
+* Launch PS Remote Play App
+* Run `Main.py`
 
 
-Note:
+### Caveats
 Only tested on Launch model PS5 using digital version of GT7.
 Load times may vary depending on your hardware.
 This script is currently based on timing, therefore if load times vary, you may have to edit the delays in the script.
